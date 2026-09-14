@@ -1,0 +1,73 @@
+Family	Genus	Taxonomy	common name	# Assembly	Level	NCBI_Level	Assembly_Name	Catalog_Level	T2T_Evidence	T2T_Review	Verified_On
+Hominidae	Homo	Homo sapiens	human	GCA_000001405.29	Chromosome	Chromosome	GRCh38.p14	Chromosome		待核实	2026-09-14
+Hominidae	Pan	Pan troglodytes	Chimpanzee	GCF_028858775.2	Chromosome	Chromosome	NHGRI_mPanTro3-v2.1_pri	Chromosome		待核实	2026-09-14
+Hominidae	Gorilla	Gorilla gorilla	Western Gorilla	GCA_029281585.3	Chromosome	Chromosome	NHGRI_mGorGor1-v2.1_pri	Chromosome		待核实	2026-09-14
+Hominidae	Pongo	Pongo abelii	Sumatran Orangutan	GCF_028885655.2	Chromosome	Chromosome	NHGRI_mPonAbe1-v2.1_pri	Chromosome		待核实	2026-09-14
+Hylobatidae	Symphalangus	Symphalangus syndactylus	Siamang	GCF_028878055.3	Chromosome	Chromosome	NHGRI_mSymSyn1-v2.1_pri	Chromosome		待核实	2026-09-14
+Hylobatidae	Hoolock	Hoolock leuconedys	Eastern Hoolock Gibbon	GCA_047372625.1	Chromosome	Chromosome	UCONN_HLeu1	Chromosome		待核实	2026-09-14
+Hylobatidae	Hylobates	Hylobates pileatus	Pileated Gibbon	GCA_021498465.1	Chromosome	Chromosome	ASM2149846v1	Chromosome		待核实	2026-09-14
+Hylobatidae	Nomascus	Nomascus leucogenys	northern white-cheeked gibbon	GCA_040113105.1	Chromosome	Chromosome	ASM4011310v1	Chromosome		待核实	2026-09-14
+Cercopithecidae	Erythrocebus	Erythrocebus patas	Patas Monkey	GCA_023783455.1	Contig	Contig	ASM2378345v1	Contig		待核实	2026-09-14
+Cercopithecidae	Chlorocebus	Chlorocebus sabaeus	green monkey	GCA_047676025.1	Chromosome	Chromosome	mChlSab1.0.hap2	Chromosome		待核实	2026-09-14
+Cercopithecidae	Cercopithecu	Cercopithecus mona	Mona monkey	GCA_014849445.1	Scaffold	Scaffold	KIZ_CMon_1.0	Scaffold		待核实	2026-09-14
+Cercopithecidae	Allenopithecus	Allenopithecus nigroviridis	Allen's swamp monkey	GCA_963574245.1	Scaffold	Scaffold	PGDP_AllNig	Scaffold		待核实	2026-09-14
+Cercopithecidae	Miopithecus	Miopithecus talapoin	talapoin	GCA_028551445.1	Chromosome	Chromosome	Miopithecus_talapoin_HiC	Chromosome		待核实	2026-09-14
+Cercopithecidae	Allochrocebus	Allochrocebus lhoesti	L'Hoest's Monkey	GCA_963574325.1	Scaffold	Scaffold	PGDP_AllLho	Scaffold		待核实	2026-09-14
+Cercopithecidae	Macaca	Macaca mulatta	Rhesus Macaque	GCA_049350105.2	Chromosome	Complete Genome	T2T-MMU8v2.0	T2T	https://github.com/zhang-shilong/T2T-MMU8	发布者证据已核实	2026-09-14
+Cercopithecidae	Papio	Papio anubis	Olive Baboon	GCA_008728515.2	Chromosome	Chromosome	Panubis1.1	Chromosome		待核实	2026-09-14
+Cercopithecidae	Lophocebus	Lophocebus aterrimus	Northern Black Crested Mangabey	GCA_023783235.1	Contig	Contig	ASM2378323v1	Contig		待核实	2026-09-14
+Cercopithecidae	Theropithecus	Theropithecus gelada	Gelada	GCA_003255815.1	Chromosome	Chromosome	Tgel_1.0	Chromosome		待核实	2026-09-14
+Cercopithecidae	Cercocebus	Cercocebus atys	Sooty Mangabey	GCA_000955945.1	Scaffold	Scaffold	Caty_1.0	Scaffold		待核实	2026-09-14
+Cercopithecidae	Mandrillus	Mandrillus leucophaeus	drill	GCA_023783495.1	Scaffold	Scaffold	ASM2378349v1	Scaffold		待核实	2026-09-14
+Cercopithecidae	Colobus	Colobus guereza	mantled guereza	GCA_030247045.1	Chromosome	Chromosome	ASM3024704v1	Chromosome		待核实	2026-09-14
+Cercopithecidae	Piliocolobus	Piliocolobus tephrosceles	Ugandan red Colobus	GCF_002776525.5	Chromosome	Chromosome	ASM277652v5	Chromosome		待核实	2026-09-14
+Cercopithecidae	Pygathrix	Pygathrix nigripes	Black-shanked douc langur	GCA_047655245.1	Chromosome	Chromosome	ASM4765524v1	Chromosome		待核实	2026-09-14
+Cercopithecidae	Semnopithecus	Semnopithecus entellus	Hanuman langur	GCA_047655295.1	Contig	Contig	SemEnt	Contig		待核实	2026-09-14
+Cercopithecidae	Trachypithecus	Trachypithecus shortridgei	Shortridge's langur	GCA_054345695.1	Scaffold	Scaffold	ASM5434569v1	Scaffold		待核实	2026-09-14
+Cercopithecidae	Presbytis	Presbytis melalophos mitrata	Mitred leaf monkey	GCA_963575215.1	Scaffold	Scaffold	PGDP_PreMit	Scaffold		待核实	2026-09-14
+Cercopithecidae	Rhinopithecus	Rhinopithecus roxellana	Golden Snub-nosed Monkey	GCA_007565055.1	Chromosome	Chromosome	ASM756505v1	Chromosome		待核实	2026-09-14
+Cercopithecidae	Nasalis	Nasalis larvatus	proboscis monkey	GCA_000772465.1	Chromosome	Chromosome	Charlie1.0	Chromosome		待核实	2026-09-14
+Cercopithecidae	Simias	Simias concolor	Simakobou	GCA_047496735.1	Scaffold	Scaffold	ASM4749673v1	Scaffold		待核实	2026-09-14
+Aotidae	Aotus	Aotus nancymaae	Ma's Night Monkey	GCA_030222135.1	Contig	Contig	86718_ANA_hifiasm-v0.15.2.pri	Contig		待核实	2026-09-14
+Atelidae	Alouatta	Alouatta palliata	Mantled howler monkey	GCA_004027835.1	Scaffold	Scaffold	AloPal_v1_BIUU	Scaffold		待核实	2026-09-14
+Atelidae	Ateles	Ateles hybridus	brown spider monkey	GCA_916098195.1	Scaffold	Scaffold	ORGONE_01	Scaffold		待核实	2026-09-14
+Atelidae	Lagothrix	Lagothrix lagotricha	brown woolly monkey	GCA_963574225.1	Scaffold	Scaffold	PGDP_LagLag	Scaffold		待核实	2026-09-14
+Atelidae	Brachyteles	Brachyteles arachnoides	woolly spider monkey	GCA_047496155.1	Contig	Contig	ASM4749615v1	Contig		待核实	2026-09-14
+Callithrichidae	Callimico	Callimico goeldii	Goeldi's marmoset	GCA_963573925.1	Scaffold	Scaffold	PGDP_CalGoe	Scaffold		待核实	2026-09-14
+Callitrichidae	Callithrix	Callithrix jacchus	white-tufted-ear marmoset	GCF_049354715.1	Chromosome	Chromosome	calJac240_pri	Chromosome		待核实	2026-09-14
+Callithrichidae	Cebuella	Cebuella niveiventris		GCA_963575025.1	Scaffold	Scaffold	PGDP_CebNiv	Scaffold		待核实	2026-09-14
+Callithrichidae	Leontopithecus	Leontopithecus rosalia	golden lion tamarin	GCA_054824955.1	Chromosome	Chromosome	mLeoRos1.hap2	Chromosome		待核实	2026-09-14
+Callithrichidae	Mico	Mico argentatus	Silvery marmoset	GCA_963573565.1	Scaffold	Scaffold	PGDP_MicSch	Scaffold		待核实	2026-09-14
+Callithrichidae	Saguinus	Saguinus oedipus	Cotton-top tamarin	GCA_031835075.1	Chromosome	Chromosome	ASM3183507v1	Chromosome		待核实	2026-09-14
+Cebidae	Cebus	Cebus albifrons	Humboldt's White-fronted Capuchin	GCA_023783575.1	Contig	Contig	ASM2378357v1	Contig		待核实	2026-09-14
+Cebidae	Leontocebus	Leontocebus nigricollis	Black-and-red tamarin	GCA_963575265.1	Scaffold	Scaffold	PGDP_LeoNig	Scaffold		待核实	2026-09-14
+Cebidae	Saimiri	Saimiri boliviensis	Bolivian squirrel monkey	GCF_048565385.1	Chromosome	Chromosome	mSaiBol1.pri	Chromosome		待核实	2026-09-14
+Cebidae	Sapajus	Sapajus apella	tufted capuchin	GCA_022120495.1	Scaffold	Scaffold	Sape_Mango_1.1	Scaffold		待核实	2026-09-14
+Pitheciidae	Cacajao	Cacajao ayresi		GCA_963573425.1	Scaffold	Scaffold	PGDP_CacAyr	Scaffold		待核实	2026-09-14
+Pitheciidae	Cheracebus	Cheracebus lugens	black titi	GCA_963574535.1	Scaffold	Scaffold	PGDP_CheLug	Scaffold		待核实	2026-09-14
+Pitheciidae	Chiropotes	Chiropotes israelita		GCA_963573965.1	Scaffold	Scaffold	PGDP_ChiIsr	Scaffold		待核实	2026-09-14
+Pitheciidae	Pithecia	Pithecia pithecia	white-faced saki	GCA_028551515.1	Chromosome	Chromosome	Pithecia_pithecia_HiC	Chromosome		待核实	2026-09-14
+Pitheciidae	Plecturocebus	Plecturocebus cupreus	Coppery titi	GCA_040437455.1	Chromosome	Chromosome	PleCup_hybrid	Chromosome		待核实	2026-09-14
+Tarsiidae	Tarsius	Tarsius lariang	Lariang tarsier	GCA_963574405.1	Scaffold	Scaffold	PGDP_TarLar	Scaffold		待核实	2026-09-14
+Tarsiidae	Cephalopachus	Cephalopachus bancanus	Horsfield's tarsier	GCA_027257055.1	Contig	Contig	ASM2725705v1	Contig		待核实	2026-09-14
+Tarsiidae	Carlito	Carlito syrichta	Philippine tarsier	GCF_000164805.1	Scaffold	Scaffold	Tarsius_syrichta-2.0.1	Scaffold		待核实	2026-09-14
+Daubentoniidae	Daubentonia	Daubentonia madagascariensis	Aye-aye	GCA_044048945.1	Scaffold	Scaffold	DMad_hybrid	Scaffold		待核实	2026-09-14
+Cheirogaleidae	Cheirogaleus	Cheirogaleus medius	Lesser dwarf lemur	GCA_008086735.1	Scaffold	Scaffold	ASM808673v1	Scaffold		待核实	2026-09-14
+Cheirogaleidae	Mirza	Mirza coquereli	Coquerel's Giant Mouse Lemur	GCA_004024645.1	Scaffold	Scaffold	MizCoq_v1_BIUU	Scaffold		待核实	2026-09-14
+Cheirogaleidae	Microcebus	Microcebus murinus	gray mouse lemur	GCF_040939455.1	Chromosome	Chromosome	M.murinus_Inina_mat1.0	Chromosome		待核实	2026-09-14
+Lepilemuridae	Lepilemur	Lepilemur ruficaudatus	Red-tailed sportive lemur	GCA_963574885.1	Scaffold	Scaffold	PGDP_LepRuf	Scaffold		待核实	2026-09-14
+Lemuridae	Eulemur	Eulemur rufifrons	Bennett's brown lemur	GCF_041146395.1	Chromosome	Chromosome	OSU_ERuf_1	Chromosome		待核实	2026-09-14
+Lemuridae	Hapalemur	Hapalemur meridionalis	southern lesser bamboo lemur	GCA_963575175.1	Scaffold	Scaffold	PGDP_HapMer	Scaffold		待核实	2026-09-14
+Lemuridae	Prolemur	Prolemur simus	Greater Bamboo Lemur	GCA_003258685.1	Scaffold	Scaffold	Prosim_1.0	Scaffold		待核实	2026-09-14
+Lemuridae	Lemur	Lemur catta	Ring-tailed Lemur	GCF_020740605.2	Chromosome	Chromosome	mLemCat1.pri	Chromosome		待核实	2026-09-14
+Lemuridae	Varecia	Varecia variegata	Ruffed lemur	GCA_028533085.1	Chromosome	Chromosome	Varecia_variegata_HiC	Chromosome		待核实	2026-09-14
+Indriidae	Avahi	Avahi laniger	Avahi laniger	GCA_963575035.1	Scaffold	Scaffold	PGDP_AvaLan	Scaffold		待核实	2026-09-14
+Indriidae	Indri	Indri indri	Indri	GCA_004363605.1	Scaffold	Scaffold	IndInd_v1_BIUU	Scaffold		待核实	2026-09-14
+Indriidae	Propithecus	Propithecus coquereli	Coquerel's sifaka	GCF_000956105.1	Scaffold	Scaffold	Pcoq_1.0	Scaffold		待核实	2026-09-14
+Galagidae	Galago	Galago moholi	Southern Lesser Galago	GCA_023783435.1	Contig	Contig	ASM2378343v1	Contig		待核实	2026-09-14
+Galagidae	Galagoides	Galagoides demidoff	Demidoff's galago	GCA_963574575.1	Scaffold	Scaffold	PGDP_GalDem	Scaffold		待核实	2026-09-14
+Galagidae	Otolemur	Otolemur garnettii	small-eared galago	GCA_000181295.3	Scaffold	Scaffold	OtoGar3	Scaffold		待核实	2026-09-14
+Lorisidae	Arctocebus	Arctocebus calabarensis	Calabar angwantibo	GCA_963573935.1	Scaffold	Scaffold	PGDP_ArcCal	Scaffold		待核实	2026-09-14
+Lorisidae	Loris	Loris tardigradus	Red Slender Loris	GCA_023783135.1	Contig	Contig	ASM2378313v1	Contig		待核实	2026-09-14
+Lorisidae	Nycticebus	Nycticebus coucang	slow loris	GCF_027406575.1	Chromosome	Chromosome	mNycCou1.pri	Chromosome		待核实	2026-09-14
+Lorisidae	Perodicticus	Perodicticus potto	potto	GCA_963574655.1	Scaffold	Scaffold	PGDP_PerPot	Scaffold		待核实	2026-09-14

@@ -1,0 +1,73 @@
+Family	Genus	Taxonomy	common name	# Assembly	Level
+Hominidae	Homo	Homo sapiens	human	GCA_000001405.29	Chromosome
+Hominidae	Pan	Pan troglodytes	Chimpanzee	GCF_028858775.2	Chromosome
+Hominidae	Gorilla	Gorilla gorilla	Western Gorilla	GCA_029281585.3	Chromosome
+Hominidae	Pongo	Pongo abelii	Sumatran Orangutan	GCF_028885655.2	Chromosome
+Hylobatidae	Symphalangus	Symphalangus syndactylus	Siamang	GCF_028878055.3	Chromosome
+Hylobatidae	Hoolock	Hoolock leuconedys	Eastern Hoolock Gibbon	GCA_047372625.1	Chromosome
+Hylobatidae	Hylobates	Hylobates pileatus	Pileated Gibbon	GCA_021498465.1	Chromosome
+Hylobatidae	Nomascus	Nomascus leucogenys	northern white-cheeked gibbon	GCA_040113105.1	Chromosome
+Cercopithecidae	Erythrocebus	Erythrocebus patas	Patas Monkey	GCA_023783455.1	Contig
+Cercopithecidae	Chlorocebus	Chlorocebus sabaeus	green monkey	GCA_047676025.1	Chromosome
+Cercopithecidae	Cercopithecu	Cercopithecus mona	Mona monkey	GCA_014849445.1	Scaffold
+Cercopithecidae	Allenopithecus	Allenopithecus nigroviridis	Allen's swamp monkey	GCA_963574245.1	Scaffold
+Cercopithecidae	Miopithecus	Miopithecus talapoin	talapoin	GCA_028551445.1	Chromosome
+Cercopithecidae	Allochrocebus	Allochrocebus lhoesti	L'Hoest's Monkey	GCA_963574325.1	Scaffold
+Cercopithecidae	Macaca	Macaca mulatta	Rhesus Macaque	GCA_049350105.2	Chromosome
+Cercopithecidae	Papio	Papio anubis	Olive Baboon	GCA_008728515.2	Chromosome
+Cercopithecidae	Lophocebus	Lophocebus aterrimus	Northern Black Crested Mangabey	GCA_023783235.1	Contig
+Cercopithecidae	Theropithecus	Theropithecus gelada	Gelada	GCA_003255815.1	Chromosome
+Cercopithecidae	Cercocebus	Cercocebus atys	Sooty Mangabey	GCA_000955945.1	Scaffold
+Cercopithecidae	Mandrillus	Mandrillus leucophaeus	drill	GCA_023783495.1	Scaffold
+Cercopithecidae	Colobus	Colobus guereza	mantled guereza	GCA_030247045.1	Chromosome
+Cercopithecidae	Piliocolobus	Piliocolobus tephrosceles	Ugandan red Colobus	GCF_002776525.5	Chromosome
+Cercopithecidae	Pygathrix	Pygathrix nigripes	Black-shanked douc langur	GCA_047655245.1	Chromosome
+Cercopithecidae	Semnopithecus	Semnopithecus entellus	Hanuman langur	GCA_047655295.1	Contig
+Cercopithecidae	Trachypithecus	Trachypithecus shortridgei	Shortridge's langur	GCA_054345695.1	Scaffold
+Cercopithecidae	Presbytis	Presbytis melalophos mitrata	Mitred leaf monkey	GCA_963575215.1	Scaffold
+Cercopithecidae	Rhinopithecus	Rhinopithecus roxellana	Golden Snub-nosed Monkey	GCA_007565055.1	Chromosome
+Cercopithecidae	Nasalis	Nasalis larvatus	proboscis monkey	GCA_000772465.1	Chromosome
+Cercopithecidae	Simias	Simias concolor	Simakobou	GCA_047496735.1	Scaffold
+Aotidae	Aotus	Aotus nancymaae	Ma's Night Monkey	GCA_030222135.1	Contig
+Atelidae	Alouatta	Alouatta palliata	Mantled howler monkey	GCA_004027835.1	Scaffold
+Atelidae	Ateles	Ateles hybridus	brown spider monkey	GCA_916098195.1	Scaffold
+Atelidae	Lagothrix	Lagothrix lagotricha	brown woolly monkey	GCA_963574225.1	Scaffold
+Atelidae	Brachyteles	Brachyteles arachnoides	woolly spider monkey	GCA_047496155.1	Contig
+Callithrichidae	Callimico	Callimico goeldii	Goeldi's marmoset	GCA_963573925.1	Scaffold
+Callitrichidae	Callithrix	Callithrix jacchus	white-tufted-ear marmoset	GCF_049354715.1	Chromosome
+Callithrichidae	Cebuella	Cebuella niveiventris		GCA_963575025.1	Scaffold
+Callithrichidae	Leontopithecus	Leontopithecus rosalia	golden lion tamarin	GCA_054824955.1	Chromosome
+Callithrichidae	Mico	Mico argentatus	Silvery marmoset	GCA_963573565.1	Scaffold
+Callithrichidae	Saguinus	Saguinus oedipus	Cotton-top tamarin	GCA_031835075.1	Chromosome
+Cebidae	Cebus	Cebus albifrons	Humboldt's White-fronted Capuchin	GCA_023783575.1	Contig
+Cebidae	Leontocebus	Leontocebus nigricollis	Black-and-red tamarin	GCA_963575265.1	Scaffold
+Cebidae	Saimiri	Saimiri boliviensis	Bolivian squirrel monkey	GCF_048565385.1	Chromosome
+Cebidae	Sapajus	Sapajus apella	tufted capuchin	GCA_022120495.1	Scaffold
+Pitheciidae	Cacajao	Cacajao ayresi		GCA_963573425.1	Scaffold
+Pitheciidae	Cheracebus	Cheracebus lugens	black titi	GCA_963574535.1	Scaffold
+Pitheciidae	Chiropotes	Chiropotes israelita		GCA_963573965.1	Scaffold
+Pitheciidae	Pithecia	Pithecia pithecia	white-faced saki	GCA_028551515.1	Chromosome
+Pitheciidae	Plecturocebus	Plecturocebus cupreus	Coppery titi	GCA_040437455.1	Chromosome
+Tarsiidae	Tarsius	Tarsius lariang	Lariang tarsier	GCA_963574405.1	Scaffold
+Tarsiidae	Cephalopachus	Cephalopachus bancanus	Horsfield's tarsier	GCA_027257055.1	Contig
+Tarsiidae	Carlito	Carlito syrichta	Philippine tarsier	GCF_000164805.1	Scaffold
+Daubentoniidae	Daubentonia	Daubentonia madagascariensis	Aye-aye	GCA_044048945.1	Scaffold
+Cheirogaleidae	Cheirogaleus	Cheirogaleus medius	Lesser dwarf lemur	GCA_008086735.1	Scaffold
+Cheirogaleidae	Mirza	Mirza coquereli	Coquerel's Giant Mouse Lemur	GCA_004024645.1	Scaffold
+Cheirogaleidae	Microcebus	Microcebus murinus	gray mouse lemur	GCF_040939455.1	Chromosome
+Lepilemuridae	Lepilemur	Lepilemur ruficaudatus	Red-tailed sportive lemur	GCA_963574885.1	Scaffold
+Lemuridae	Eulemur	Eulemur rufifrons	Bennett's brown lemur	GCF_041146395.1	Chromosome
+Lemuridae	Hapalemur	Hapalemur meridionalis	southern lesser bamboo lemur	GCA_963575175.1	Scaffold
+Lemuridae	Prolemur	Prolemur simus	Greater Bamboo Lemur	GCA_003258685.1	Scaffold
+Lemuridae	Lemur	Lemur catta	Ring-tailed Lemur	GCF_020740605.2	Chromosome
+Lemuridae	Varecia	Varecia variegata	Ruffed lemur	GCA_028533085.1	Chromosome
+Indriidae	Avahi	Avahi laniger	Avahi laniger	GCA_963575035.1	Scaffold
+Indriidae	Indri	Indri indri	Indri	GCA_004363605.1	Scaffold
+Indriidae	Propithecus	Propithecus coquereli	Coquerel's sifaka	GCF_000956105.1	Scaffold
+Galagidae	Galago	Galago moholi	Southern Lesser Galago	GCA_023783435.1	Contig
+Galagidae	Galagoides	Galagoides demidoff	Demidoff's galago	GCA_963574575.1	Scaffold
+Galagidae	Otolemur	Otolemur garnettii	small-eared galago	GCA_000181295.3	Scaffold
+Lorisidae	Arctocebus	Arctocebus calabarensis	Calabar angwantibo	GCA_963573935.1	Scaffold
+Lorisidae	Loris	Loris tardigradus	Red Slender Loris	GCA_023783135.1	Contig
+Lorisidae	Nycticebus	Nycticebus coucang	slow loris	GCF_027406575.1	Chromosome
+Lorisidae	Perodicticus	Perodicticus potto	potto	GCA_963574655.1	Scaffold
