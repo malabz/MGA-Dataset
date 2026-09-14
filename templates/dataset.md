@@ -2,7 +2,7 @@
 
 [返回首页](../README.md) · [数据目录](../catalog/README.md)
 
-<!-- 模板位于 templates/ 时使用上方导航；复制到 datasets/<dataset-id>/README.md 后，将上方两条路径分别改为 ../../README.md 与 ../../catalog/README.md。 -->
+<!-- 模板位于 templates/ 时使用上方导航；复制到 datasets/<group>/<dataset-id>/README.md 后，将首页和数据目录分别改为 ../../../README.md 与 ../../../catalog/README.md，并链接 ../README.md 研究对象目录。 -->
 <!-- 发布前删除全部模板提示，填写所属目录的相对链接。不要保留虚构链接或未替换的占位内容；来源不足的信息填写未明确或待核实。 -->
 
 所属目录：待填写具体分类列表的相对链接。

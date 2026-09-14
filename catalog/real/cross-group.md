@@ -6,6 +6,6 @@
 
 | 数据集 | 物种与比较范围 | 当前规模 | 组装级别 | 用途 | 真值 |
 | --- | --- | --- | --- | --- | --- |
-| [灵长目基因组集合](../../datasets/primates/README.md) | 人类及其他灵长类；种间；持续更新 | 当前 72 个组装 | T2T 1、Chromosome 28、Scaffold 34、Contig 9；其他记录的 T2T 证据待核实 | MGA（首批来自维护者实验）；Pangenome（潜在） | 未明确 |
+| [灵长目基因组集合](../../datasets/primate/README.md) | 人类及其他灵长类；种间；持续更新 | 当前 72 个组装 | T2T 1、Chromosome 28、Scaffold 34、Contig 9；其他记录的 T2T 证据待核实 | MGA（首批来自维护者实验）；Pangenome（潜在） | 未明确 |
 
 字段定义见[数据说明](../../docs/data-guide.md)。各组装版本、官方入口和证据集中维护在数据集详情中。

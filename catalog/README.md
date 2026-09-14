@@ -9,4 +9,4 @@
 
 每个数据集只有一个主要分类。MGA、Pangenome、T2T 状态和真值作为条目信息展示，不另外建立重复目录。真实与模拟混合且模拟部分不可独立理解的基准集，整套收录到模拟目录。
 
-字段含义见[数据说明](../docs/data-guide.md)，新增条目见[贡献规范](../CONTRIBUTING.md)。
+详情文件按研究对象保存在[数据集内容目录](../datasets/README.md)。字段含义见[数据说明](../docs/data-guide.md)，新增条目见[贡献规范](../CONTRIBUTING.md)。

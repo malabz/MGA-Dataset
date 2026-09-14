@@ -6,6 +6,7 @@
 
 [浏览真实数据目录](catalog/real/README.md)
 
+- [人类](catalog/real/human.md)：人类参考组装、群体单倍型组装和泛基因组资源。
 - [跨类群集合](catalog/real/cross-group.md)：人类与其他动物等跨研究对象分组的数据集合。
 
 ## 模拟数据
@@ -15,6 +16,7 @@
 ## 使用与贡献
 
 - [数据目录总入口](catalog/README.md)
+- [数据集内容目录](datasets/README.md)
 - [数据说明与字段指南](docs/data-guide.md)
 - [收录与维护规范](CONTRIBUTING.md)
 - [数据集条目模板](templates/dataset.md)
