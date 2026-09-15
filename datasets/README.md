@@ -6,6 +6,7 @@
 
 - [Fungi](fungi/README.md)：真菌组装集合、种内多样性和泛基因组资源。
 - [Human](human/README.md)：人类参考组装、群体单倍型组装和泛基因组资源。
+- [Plants](plants/README.md)：植物组装集合、种内与种间多样性和泛基因组资源。
 - [Primate](primate/README.md)：人类及非人灵长类的跨物种组装集合。
 - [Simulated](simulated/README.md)：模拟序列、已知真值和多基因组比对基准集。
 
