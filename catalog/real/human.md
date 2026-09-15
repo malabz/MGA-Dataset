@@ -6,6 +6,7 @@
 
 | 数据集 | 物种与比较范围 | 当前规模 | 组装级别 | 用途 | 真值 |
 | --- | --- | --- | --- | --- | --- |
+| [1KCP](../../datasets/human/1kcp/README.md) | 中国人群；种内 | 1,116 个二倍体组装、2,232 个单倍型组装 | Contig（GWH 来源记录）；未归为 T2T | Pangenome、MGA（潜在）、变异与群体遗传学 | 部分有；3 个样本的 PIGA 局部基准，无统一 MGA 真值 |
 | [APGp1](../../datasets/human/apgp1/README.md) | 东亚人群；种内 | 160 人、320 个单倍型组装 | 项目称 near-T2T；未归为 T2T | MGA、Pangenome | 无统一比对真值 |
 | [GRCh38.p14](../../datasets/human/grch38/README.md) | 人类参考组装 | 1 个参考组装 | Chromosome | MGA/Pangenome 参考、坐标体系 | 不适用 |
 | [HG002 Q100 v1.2](../../datasets/human/hg002-q100/README.md) | HG002 二倍体 | 46 条单倍型染色体 | T2T（9/10 rDNA 阵列仍含 N gap） | MGA、组装评测、变异基准 | 部分有；需匹配具体基准版本 |
