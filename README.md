@@ -7,6 +7,7 @@
 [浏览真实数据目录](catalog/real/README.md)
 
 - [人类](catalog/real/human.md)：人类参考组装、群体单倍型组装和泛基因组资源。
+- [其他动物](catalog/real/other-animals.md)：不含人类的动物组装与跨物种比对资源。
 - [植物](catalog/real/plants.md)：植物种内与种间组装集合及泛基因组资源。
 - [真菌](catalog/real/fungi.md)：真菌种内与种间组装集合及泛基因组资源。
 - [跨类群集合](catalog/real/cross-group.md)：人类与其他动物等跨研究对象分组的数据集合。

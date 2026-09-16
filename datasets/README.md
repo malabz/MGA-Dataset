@@ -4,8 +4,10 @@
 
 本目录按研究对象保存数据集详情和清单。用于浏览和比较的分类表位于 `catalog/`；这里的路径保持稳定，下载入口只在各详情中维护。
 
+- [Birds](birds/README.md)：鸟类组装、跨物种比对与系统发育资源。
 - [Fungi](fungi/README.md)：真菌组装集合、种内多样性和泛基因组资源。
 - [Human](human/README.md)：人类参考组装、群体单倍型组装和泛基因组资源。
+- [Mammals](mammals/README.md)：哺乳动物论文集合与跨物种比对资源。
 - [Plants](plants/README.md)：植物组装集合、种内与种间多样性和泛基因组资源。
 - [Primate](primate/README.md)：人类及非人灵长类的跨物种组装集合。
 - [Simulated](simulated/README.md)：模拟序列、已知真值和多基因组比对基准集。
