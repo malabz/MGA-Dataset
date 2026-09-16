@@ -6,6 +6,7 @@
 
 - [1KCP：1000 Chinese Pangenome](1kcp/README.md)
 - [APGp1](apgp1/README.md)
+- [CPC Phase I：中国 36 个人群泛基因组](cpc-phase1/README.md)
 - [GRCh38.p14](grch38/README.md)
 - [HG002 Q100 v1.2](hg002-q100/README.md)
 - [HGSVC Phase 3](hgsvc3/README.md)
